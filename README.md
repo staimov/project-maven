@@ -4,11 +4,11 @@ JavaRush Maven task
 
 https://javarush.com/quests/lectures/jru.module3.lecture00
 
-## To build:
+### To build:
 
 mvn clean install
 
-## To run:
+### To run:
 
 <path_to_jdk_18>\bin\java.exe -jar <output_jar_file>
 
